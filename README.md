@@ -224,7 +224,7 @@ Make sure these prerequisites are fulfilled before proceeding with the installat
 
 For any questions or inquiries about the Amazon clone project, feel free to reach out via the following:
 
-- **Email**: [birukjira@gmail.com](rishinatarajsundar@gmail.com)
+- **Email**: [Email](rishinatarajsundar@gmail.com)
 - **GitHub**: [GitHub Profile](https://github.com/rishi539/amazon-clone)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rishi-n-270907308/)
 
